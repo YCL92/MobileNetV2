@@ -1,8 +1,10 @@
 # MobileNetV2
 
+##### pyToch implementation of MobileNetV2 running on Raspberry PI 3B+ with Intel Movidius Neural Compute Stick
+
 ------
 
-This project is the pyToch version inplementation of MobileNetV2 for image classification on ImageNet 2012. It has been made into a mobile application running on Raspberry Pi 3B+ with Intel Movidius Neural Compute Stick (1st / 2nd generation).
+This project is the pyToch version implementation of MobileNetV2 for image classification on ImageNet 2012. It has been made into a mobile application running on Raspberry Pi 3B+ with Intel Movidius Neural Compute Stick (1st / 2nd generation).
 
 For more details about MobileNetV2, please refer to the original paper:
 
