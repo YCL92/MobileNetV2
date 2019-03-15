@@ -6,9 +6,9 @@ This project is the pyToch version inplementation of MobileNetV2 for image class
 
 For more details about MobileNetV2, please refer to the original paper:
 
-> <u>Sandler, Mark, et al. "Mobilenetv2: Inverted residuals and linear bottlenecks." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. 2018.</u>
->
-> ![demo](assets/mobilenetv2_rp3b+.jpg)
+<u>Sandler, Mark, et al. "Mobilenetv2: Inverted residuals and linear bottlenecks." *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*. 2018.</u>
+
+![demo](assets/mobilenetv2_rp3b+.jpg)
 
 
 
@@ -25,6 +25,7 @@ For more details about MobileNetV2, please refer to the original paper:
 ##### For training from the scratch:
 
 > - pyTorch 1.0.0
+> - Jupyter Notebook
 > - Intel OpenVINO toolkit
 
 
