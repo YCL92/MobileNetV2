@@ -48,5 +48,5 @@ For more details about MobileNetV2, please refer to the original paper:
 ------
 
 1. Modify the path of ImageNet 2012 dataset in "config.ipynb", if you have saved weight files before, change "save_root" from "None" to "./saves"
-2. Start training by running "train.ipynb", it will take approximately 10 days (GTX 1080 TI) to reach 91.4% accuracy @ TOP1.
+2. Start training by running "train.ipynb", it will take approximately 10 days (GTX 1080 TI) to reach 91.4% accuracy @ TOP5.
 3. Run "test.ipynb" to test the model with your own image, the script will generate an ONNX model automatically, which will be further converted to Intel OpenVINO model representation through the model optimizer.
