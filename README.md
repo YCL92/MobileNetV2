@@ -26,9 +26,9 @@ For more details about MobileNetV2, please refer to the original paper:
 
 ##### For training from the scratch:
 
-> - pyTorch 1.0.0
-> - Jupyter Notebook
-> - Intel OpenVINO toolkit
+- pyTorch 1.0.0
+- Jupyter Notebook
+- Intel OpenVINO toolkit
 
 
 
